@@ -11,10 +11,15 @@
 | 🍣 CPU    | Intel Core i3-4010u Processor    					|
 | 🍞 iGPU          | Intel HD 4400   		    |
 | 🍟 RAM | 6 GB DDR3 @ 1600MHz              |
-| 🍋 Wifi          | Atheros AR9565           |
+| 🍋 Wifi/BT         | Atheros AR9565           |
 
 ## 🍙 Preview 
 
 - ### Settings + About this mac.
 
   <img src="https://github.com/Birdabo404/E1-572_Ventura/blob/main/screenshots/settings%2Binfo.png" >
+
+## ⚠️ Know issues
+• Bluetooth doesn't work.
+
+• Hibernation is broken.
